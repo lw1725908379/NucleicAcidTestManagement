@@ -1,4 +1,4 @@
-![image](https://github.com/lw1725908379/NucleicAcidTestManagement/assets/143780602/5418ca99-9381-4371-b7de-a0432ddcd616)# NucleicAcidTestManagement
+# NucleicAcidTestManagement
 
 **Development Environment Configuration**
 
